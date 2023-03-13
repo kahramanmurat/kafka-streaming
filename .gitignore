@@ -1,0 +1,8 @@
+week6_venv
+python/resources/
+python/homework/__pycache__/
+python/homework/x.py
+python/homework/checkpoint/
+.DS_Store
+python/.DS_Store
+
